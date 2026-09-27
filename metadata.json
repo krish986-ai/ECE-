@@ -1,0 +1,6 @@
+{
+  "name": "ECE Matrix // Engineering & Architecture Hub",
+  "description": "An engineering-grade framework covering circuit foundations, modern VLSI physical tape-out, embedded RTOS, RF microwaves, and edge intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
